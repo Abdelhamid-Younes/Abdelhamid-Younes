@@ -9,5 +9,5 @@ For a few years now, I've been focusing on **Linux System Administration** as we
 If you want to discuss about it, feel free to contact me.
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelhamid-younes-83981649/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/MozkaGit/MozkaGit/blob/main/images/linkedin-button.png" width="13%"></a>
+  <a href="https://www.linkedin.com/in/abdelhamid-younes-83981649/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/Abdelhamid-Younes/Abdelhamid-Younes/blob/main/images/linkedin-button.png" width="13%"></a>
 </p>
