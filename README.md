@@ -16,7 +16,7 @@ Passionate IT engineer, I am always looking for new challenges.
 <br>For a few years now, I've been focusing on Linux System Administration as well as <b>containerization technologies</b>, the path of DevOps with <b>Infrastructure as Code</b>, <b>CI/CD pipelines</b>, <b>Configuration Management</b> and so on. I'm also working on <b>learning contents</b> of these same topics.<br>
 If you want to discuss about it, feel free to contact me. 
 
-## 🌐 You can find me on :
+## 🌐 You can find me on:
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelhamid-younes-83981649/" target="_blank"><img alt="Mohamed Diaby LinkedIn profile" src="https://github.com/Abdelhamid-Younes/Abdelhamid-Younes/blob/main/images/linkedin-button.png" width="13%"></a>
 </p>
