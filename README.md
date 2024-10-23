@@ -1,5 +1,5 @@
 ## Hi everyone, I'm Abdelhamid Younes 👋
-<img align="right" alt="GIF" src="https://github.com/Abdelhamid-Younes/Abdelhamid-Younes/blob/main/images/DevOps-scaled.jpg" width="53%" />
+<img align="right" alt="GIF" src="https://github.com/Abdelhamid-Younes/Abdelhamid-Younes/blob/main/images/DevOps-scaled.jpg" />
 <p>
 Nice to meet you. Let me introduce myself in a few lines:
   <ul>
